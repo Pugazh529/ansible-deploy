@@ -1,0 +1,6 @@
+[web]
+# For Ubuntu
+172.31.35.134 ansible_user=ubuntu
+
+# (If Amazon Linux, use ec2-user)
+# 172.31.35.134 ansible_user=ec2-user
