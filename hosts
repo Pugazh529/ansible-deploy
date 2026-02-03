@@ -1,4 +1,4 @@
 [web]
-172.31.36.242 ansible_user=ubuntu
+172.31.36.209 ansible_user=ubuntu
 172.31.39.22 ansible_user=ubuntu
-172.31.36.67 ansible_user=ubuntu
+
